@@ -4,7 +4,8 @@
         "src/book_search_unified_common.js",
         "src/book_search_unified_paintPanel.js",
         "src/book_search_module_general_info.js",
-        "src/book_search_module_characters.js"
+        "src/book_search_module_characters.js",
+        "src/book_search_module_events.js"
     ],
 
     "component": "src/book_search_unified_component.js",

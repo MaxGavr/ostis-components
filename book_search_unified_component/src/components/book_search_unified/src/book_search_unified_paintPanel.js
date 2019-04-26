@@ -5,7 +5,8 @@ BookSearchUnified.PaintPanel = function (containerId) {
 
     this.modules = [
         new ModuleGeneralInfo(this),
-        new ModuleCharacters(this)
+        new ModuleCharacters(this),
+        new ModuleEvents(this)
     ];
 
     this.requiredKeynodes = this._collectRequiredKeynodes();
