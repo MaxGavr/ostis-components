@@ -1,0 +1,11 @@
+{
+     "sources": [
+        
+        "src/book_search_by_time_period_common.js",
+        "src/book_search_by_time_period_paintPanel.js"
+    ],
+
+    "component": "src/book_search_by_time_period_component.js",
+
+    "target": "static/components/js/book_search_by_time_period/book_search_by_time_period.js"
+}

@@ -1,0 +1,5 @@
+book_search_by_time_period_view 
+<- ui_external_languages;
+=> nrel_main_idtf: 
+	[Поиск книг по году издания]
+		(* <- lang_ru;; *);;
